@@ -4,8 +4,7 @@ referring to: https://github.com/s5uishida/open5gs_5gc_srsran_sample_config?tab=
 
 Changes in configuration files
 
-- Mainly, IP addresses and some settings are changed but primarily follow the sample config.
-Please look at Vagrantfile to find the IP address allocation for VMs.
+- Mainly, IP addresses and some settings are changed but primarily follow the sample config. Vagrantfile is written to build 4 VMs for UE, gNB, C-plane, and U-plane. Please look at Vagrantfile to find the IP address allocation.
 
 Changes for particular reasons
 
