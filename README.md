@@ -1,4 +1,4 @@
-# srsRAN-Open5GS-practice1
+# srsRAN-Open5GS-network
 Configured a 5G mobile network with srsRAN and Open5GS combined with ZeroMQ,
 referring to: https://github.com/s5uishida/open5gs_5gc_srsran_sample_config?tab=readme-ov-file#changes_ran
 
